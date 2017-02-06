@@ -1,6 +1,6 @@
 {
   "name": "hkbus-cli",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "Minimal interface to show bus stops and ETA.",
   "bin": {
     "hkbus": "cli.js"
